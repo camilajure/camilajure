@@ -1,4 +1,4 @@
- 👋 Hi, I’m Camila
+ 👋 Hi there , I’m Camila
  
  I am a Full Stack Developer💻.
  
@@ -12,7 +12,7 @@
 
 If you are interested in my profile 🙋‍♀️🙋‍♀️, you can contact me at
 
-
+Linkedin: www.linkedin.com/in/camilajure
 Email: camilajure@gmail.com
  
  
