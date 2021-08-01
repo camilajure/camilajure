@@ -24,8 +24,7 @@ If you are interested in my profile 🙋‍♀️🙋‍♀️, you can contact 
  
  Dogs  App
   <br/>
-  <a href="https://github.com/camilajure/Dogs-App--Personal-Proyect"> <img src="![dog](https://user-images.githubusercontent.com/76502573/127785724-1bf9a3d9-e66f-4293-8d9a-f1862e465205.jpg)
-" alt="here goes landing" > </a>
+  <a href="https://github.com/camilajure/Dogs-App--Personal-Proyect"> <img src="https://user-images.githubusercontent.com/76502573/127785775-c753e874-5109-46c4-945d-de7411219a09.gif" alt="here goes landing" > </a>
  
 
 
