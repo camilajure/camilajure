@@ -26,7 +26,7 @@ If you are interested in my profile 🙋‍♀️🙋‍♀️, you can contact 
   <br/>
   <a href="https://github.com/camilajure/Dogs-App--Personal-Proyect"> <img src="https://user-images.githubusercontent.com/76502573/127785775-c753e874-5109-46c4-945d-de7411219a09.gif" alt="here goes landing" > </a>
  
-
+[![Visits Badge](https://badges.pufler.dev/visits/camilajure/camilajure)](https://badges.pufler.dev)
 
 <!---
 camilajure/camilajure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
